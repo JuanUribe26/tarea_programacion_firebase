@@ -6,6 +6,9 @@ menu interactivo:
 ![Captura de pantalla 2025-01-20 235232](https://github.com/user-attachments/assets/50597034-c21b-4646-94d8-0ce8c9f7e16a)
 2. eliminar item
 3. listar items
+
+
 4. salir
+
 ![image](https://github.com/user-attachments/assets/245c635f-e4cf-4d2b-9d45-a9e827b99c48)
 
