@@ -9,7 +9,11 @@ menu interactivo:
 1. agregar item:
 
 ![Captura de pantalla 2025-01-20 235232](https://github.com/user-attachments/assets/50597034-c21b-4646-94d8-0ce8c9f7e16a)
+
+
 2. eliminar item
+
+
 3. listar items
 
 
